@@ -14,19 +14,19 @@ export default Vue.extend({
     },
     lg: {
       type: Number,
-      default: 12,
+      default: undefined,
     },
     md: {
       type: Number,
-      default: 12,
+      default: undefined,
     },
     sm: {
       type: Number,
-      default: 12,
+      default: undefined,
     },
     xl: {
       type: Number,
-      default: 12,
+      default: undefined,
     },
   },
 });
